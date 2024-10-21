@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate on innovative AI projects or early-stage startup ideas.
 
-📫 How to reach me: Drop me a line at utkarshs.bsingh@gmail.com or connect on 
+📫 How to reach me: Drop me a line at utkarshs.bsingh@gmail.com or connect on LinkedIn (in/utkarsh-singh-245a14219)
 
 😄 Pronouns: He/Him
 
