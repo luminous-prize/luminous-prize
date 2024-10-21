@@ -1,5 +1,5 @@
 👋 Hi, I’m @luminous-prize
-👀 I’m interested in Data Science and building scalable startups.
+👀 I’m interested in AI and building scalable startups.
 
 🌱 I’m currently learning advanced ML techniques and entrepreneurial strategy.
 
