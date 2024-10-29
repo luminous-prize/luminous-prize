@@ -1,5 +1,4 @@
 👋 Hi, I’m @luminous-prize
-👀 I’m interested in AI and building scalable startups.
 
 💞️ I’m looking to collaborate on innovative AI projects or early-stage startup ideas.
 
