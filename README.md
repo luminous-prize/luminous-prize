@@ -4,8 +4,6 @@
 
 📫 How to reach me: Drop me a line at [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-245a14219)
 
-⚡ Fun fact: I’m always brainstorming business ideas while sipping on my third cup of coffee ☕!
-
 
 <!---
 luminous-prize/luminous-prize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
