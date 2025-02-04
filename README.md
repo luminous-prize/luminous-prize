@@ -4,7 +4,7 @@ I’m looking to collaborate on innovative AI projects or early-stage startup id
 
  📫 How to reach me: Drop me a line at [LinkedIn](https://www.linkedin.com/in/utkarsh-singh-245a14219)
 
-## Publications:
+## Publications
 
 1. [AI Meditation App: Enhancing Mindfulness Through AI and EEG Integration](https://irejournals.com/paper-details/1706941)
 2. [Battery Temperature Forecasting Methods: Lithium-ion battery Case Study](https://link.springer.com/chapter/10.1007/978-981-97-3556-3_5)
