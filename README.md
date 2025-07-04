@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Machine Learning Engineer @ IBM India Systems Development Labs</strong><br>
- I enjoy research, building from scratch, and collaborating on impactful ideas. My current interests lie at the intersection of AI and Quantitative Finance, particularly in risk modeling, forecasting, and simulations. I'm open to research collaborations on innovative applied AI projects, or early-stage startup ideas.
+ I enjoy research, building from scratch, and collaborating on impactful ideas. My current interests lie at the intersection of AI and Quantitative Finance, particularly in risk modeling, forecasting, and simulations. I'm open to research collaborations on applied AI projects, or early-stage startup ideas.
 </p>
 
 <p align="center">
