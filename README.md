@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Let’s connect on</strong>  <a href="https://www.linkedin.com/in/utkarsh-singh-245a14219" target="_blank">LinkedIn</a>
+  Let’s connect on <a href="https://www.linkedin.com/in/utkarsh-singh-245a14219" target="_blank">LinkedIn</a>
 </p>
 
 ---
