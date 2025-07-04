@@ -47,5 +47,4 @@
   <img src="https://img.shields.io/badge/Monte--Carlo--Simulation-3776AB?style=flat&logo=python&logoColor=white" alt="Monte Carlo" />
   <img src="https://img.shields.io/badge/Risk--Modeling-003B57?style=flat&logo=verizon&logoColor=white" alt="Risk Modeling" />
   <img src="https://img.shields.io/badge/Technical--Writing-000000?style=flat&logo=bookstack&logoColor=white" alt="Technical Writing" />
-  <img src="https://img.shields.io/badge/Peer--Mentorship-007ACC?style=flat&logo=trustpilot&logoColor=white" alt="Mentorship" />
 </p>
