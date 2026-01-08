@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm @luminous-prize 👋</h1>
 
 <p align="center">
-  <strong>Machine Learning Engineer @ IBM India Systems Development Labs</strong><br>
+  <strong>Graduate Student @ Johns Hopkins University</strong><br>
  I enjoy research, building from scratch, and collaborating on impactful ideas. My current interests lie at the intersection of AI and Quantitative Finance, particularly in risk modeling, forecasting, and simulations. I'm open to research collaborations on applied AI projects, or early-stage startup ideas.
 </p>
 
