@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm @luminous-prize 👋</h1>
+<h1 align="center">Hi, I'm Utkarsh 👋</h1>
 
 <p align="center">
   <strong>Graduate Student @ Johns Hopkins University</strong><br>
