@@ -38,24 +38,16 @@ I build large-scale machine learning systems and quantitative models for high-di
   <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=flat" />
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=flat" />
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat" />
-</p>
-
----
-
-### LLM Systems & Retrieval
-<p float="left">
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat" />
   <img src="https://img.shields.io/badge/LangGraph-222222?style=flat" />
   <img src="https://img.shields.io/badge/PydanticAI-3E4E88?style=flat" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat" />
-  <img src="https://img.shields.io/badge/Faiss-005571?style=flat" />
-  <img src="https://img.shields.io/badge/InspectAI-444444?style=flat" />
 </p>
 
 ---
 
 ### ML Systems & MLOps
 <p float="left">
+  <img src="https://img.shields.io/badge/InspectAI-444444?style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenShift-AF1F24?style=flat&logo=redhatopenshift&logoColor=white" />
